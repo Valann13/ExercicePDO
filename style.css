@@ -1,0 +1,65 @@
+body{
+    margin:0;
+   
+}
+
+.logoPHP{
+  width: 100px;
+}
+
+
+h1{ 
+    
+    margin-top: 80px;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    text-align: center;
+    font-size: 4em;
+  
+    
+}
+
+h2{ padding-left: 20px;
+    color: white;
+    background-color: rgb(117, 142, 243);
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+h3{ padding-top: 20px;
+    color:  rgb(117, 142, 243);
+}
+
+h4{
+    padding-top: 20px;
+    color:  rgb(117, 142, 243);
+}
+.elephantPHP{
+   top: 180px;
+    position: absolute;z-index: 1;
+}
+hr{
+    margin-right: 800px;
+
+}
+.containerExc1{
+    background-color: rgb(249, 252, 255);
+    padding: 0;
+    border: 1px solid  black;
+    
+}
+
+.exercice1{
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.resultatEcho{
+    padding-top: 20px;
+}
+
+.btn{
+    margin-top: 30px;
+}
+
